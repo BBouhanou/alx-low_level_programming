@@ -1,7 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 /*
-*mai - returnes 0 at the end*/
+*mai - main fucntion of my project
+*
+*
+*returnes 0 at the end
+*/
 int main(void)
 {
     char displayed[52];
