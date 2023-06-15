@@ -3,7 +3,7 @@
 *main - Main function
 *
 *
-*return: return 0 everytime
+*return: return 0 everytime.
 */
 int main(void)
 {

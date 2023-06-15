@@ -1,15 +1,13 @@
 #include <stdio.h>
-#include <string.h>
-/*
-*mai - main fucntion of my project
-*
-*
-*returnes 0 at the end
-*/
+
+/**
+ * main - Entry point
+ * Description: prints "\"Programming is like building a multilingual puzzle"
+ * Return: 0
+ */
+
 int main(void)
 {
-   char displayed[52];
-   strcpy(displayed, "\"Programming is like building a multilingual puzzle");
-   puts(displayed);
-   return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
