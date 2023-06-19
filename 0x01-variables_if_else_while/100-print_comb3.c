@@ -3,7 +3,7 @@
 /**
   *main - Entrey point
   *Description: prints two digits combination
-  *return: retun alwyays 0
+  *return: Always 0 (success)
   */
 int main(void)
 {
