@@ -1,1 +1,0 @@
-ALX Pointers & Arrays & Strings
