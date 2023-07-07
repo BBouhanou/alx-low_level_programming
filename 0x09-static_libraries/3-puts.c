@@ -1,13 +1,14 @@
 #include "main.h"
-void _puts(char *str)
-#include<stdio.h>
+
 /**
- * main - Entry point
+ * _islower - prints 1 or 0 depending on input
+ * @c: first parameter
  *
- * Return: Always 0 (Success)
+ * Description: prints all lowercase letters
+ * Return: Always(0).
  */
-int main(void)
+
+int _islower(int c)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	return (c >= 'a' && c <= 'z');
 }
